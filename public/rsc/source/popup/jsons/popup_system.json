@@ -1,0 +1,44 @@
+{"frames": {
+
+"bg_popup_app_exit.png":
+{
+	"frame": {"x":1051,"y":1,"w":1128,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":1128,"h":654},
+	"sourceSize": {"w":1140,"h":661}
+},
+"bg_popup_bt.png":
+{
+	"frame": {"x":660,"y":1131,"w":934,"h":678},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":934,"h":678},
+	"sourceSize": {"w":946,"h":684}
+},
+"bg_popup_game_end.png":
+{
+	"frame": {"x":1,"y":749,"w":1128,"h":657},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":0,"w":1128,"h":657},
+	"sourceSize": {"w":1140,"h":663}
+},
+"bg_popup_option.png":
+{
+	"frame": {"x":1,"y":1,"w":1048,"h":746},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":6,"w":1048,"h":746},
+	"sourceSize": {"w":1060,"h":758}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "popup_system.png",
+	"format": "RGBA8888",
+	"size": {"w":1706,"h":1878},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:049800d1f63fdaa1ac65f6a5c59763cb:d00015707604ea91382ee8b7e3c6027c:a986e7d9fa9ee9282bdf1287df38e6b4$"
+}
+}

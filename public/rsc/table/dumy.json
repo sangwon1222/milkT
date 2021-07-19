@@ -1,0 +1,41 @@
+{
+    "typing": [
+        { "title":"문장 연습", "average":10000000, "top":1000, "accuracy":100 },
+        { "title":"긴 글 연습", "average":1000, "top":1000, "accuracy":100 },
+        { "title":"타자 검정", "average":1000, "top":1000, "accuracy":100 }
+    ],
+    
+    "game1":
+    {
+        "list": [
+            { "name": "홍길동1", "id": "Hong1225", "grade": 1, "score":100000000, "rank":10000000},
+            { "name": "홍길동2", "id": "Hong1225", "grade": 1, "score":10000000, "rank":10000000},
+            { "name": "홍길동3", "id": "Hong1225", "grade": 1, "score":1000000,  "rank":10000000},
+            { "name": "홍길동4", "id": "Hong1225", "grade": 1, "score":100000,  "rank":10000000},
+            { "name": "홍길동5", "id": "Hong1225", "grade": 1, "score":10000, "rank":10000000},
+            { "name": "홍길동6", "id": "Hong1225", "grade": 1, "score":1000, "rank":10000000},
+            { "name": "홍길동7", "id": "Hong1225", "grade": 1, "score":100,  "rank":10000000},
+            { "name": "홍길동8", "id": "Hong1225", "grade": 1, "score":10,"rank":10000000}
+        ],
+
+        "myrecord": { "name": "김티모", "id": "mychoi", "grade": 1, "score":10, "step":1, "rank":10000000}
+    },
+
+    "game2":
+    {
+        "list": [
+            { "name": "고길동1", "id": "Hong1225", "grade": 1, "score":1000000, "rank":10000000},
+            { "name": "고길동2", "id": "Hong1225", "grade": 1, "score":1000000,"rank":10000000},
+            { "name": "고길동3", "id": "Hong1225", "grade": 1, "score":1000000, "rank":10000000},
+            { "name": "고길동4", "id": "Hong1225", "grade": 1, "score":100000,  "rank":10000000},
+            { "name": "고길동5", "id": "Hong1225", "grade": 1, "score":10000,  "rank":10000000},
+            { "name": "고길동6", "id": "Hong1225", "grade": 1, "score":1000,  "rank":10000000},
+            { "name": "고길동7", "id": "Hong1225", "grade": 1, "score":100,  "rank":10000000},
+            { "name": "고길동8", "id": "Hong1225", "grade": 1, "score":10,  "rank":10000000}
+        ],
+
+        "myrecord": { "name": "김티모", "id": "mychoi", "grade": 1, "score":1000, "step":2, "rank":10000000}
+    }
+}
+
+

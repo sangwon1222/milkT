@@ -1,0 +1,401 @@
+{
+    "button":{
+        "jsons":["button.json"],
+        "sounds":["sfx_1.mp3"]
+    },
+    "popup":{
+        "jsons":[
+            "popup_system.json",
+            "popup_result.json"
+        ]
+    },
+    "location":{
+        "jsons":["location.json"]
+    },
+
+    "keylocation": {
+        "images": [
+            "game_bg.png",
+            "focus.png",
+            "quizbox.png",
+            "title.png",
+            "guide_text.png",
+            "keyboard.png",
+            "drop_title.png",
+            "drop_head.png",
+            "drop_curser.png",
+            "drop_list_normal.png",
+            "drop_list_over.png",
+        
+
+            "semicolon.png",
+            "l_hand.png",
+            "r_hand.png",
+            "l_shift.png",
+            "r_shift.png",
+            "full_stop.png",
+            "comma.png",
+            "q.png",
+            "w.png",
+            "e.png",
+            "r.png",
+            "t.png",
+            "y.png",
+            "u.png",
+            "i.png",
+            "o.png",
+            "p.png",
+
+            "a.png",
+            "s.png",
+            "d.png",
+            "f.png",
+            "g.png",
+            "h.png",
+            "j.png",
+            "k.png",
+            "l.png",
+            
+            "z.png",
+            "x.png",
+            "c.png",
+            "v.png",
+            "b.png",
+            "n.png",
+            "m.png",
+            "question_mark.png"
+        ],
+        "sounds": []
+    },
+
+    "intro":{
+        "images": [
+            "exam_btn.png",
+            "game_btn.png",
+            "longtext_btn.png",
+            "shorttext_btn.png",
+            "word_btn.png",
+            "location_btn.png",
+            "first_title.png",
+            "first_start.png",
+            "first_keyboard.png",
+            "title.png"
+        ],
+        "sounds": []
+    },
+    "word": {
+        "images": [
+            "ch.png",
+            "ch_enter.png",
+            "drop_curser.png",
+            "drop_head.png",
+            "drop_list_normal.png",
+            "drop_list_over.png",
+            "drop_title.png",
+            "focus.png",
+            "game_bg.png",
+            "input_bg_kr.png",
+            "input_bg_en.png",
+            "quiz_bg.png",
+            "script.png",
+            "title.png"
+        ],
+        "sounds": []
+    },
+    "shorttext": {
+        "images": [
+            "title.png",
+            "script.png",
+            
+            "bg_typing.png",
+            "input_bg_kr.png",
+            "input_bg_en.png",
+            "question_bg.png",
+
+            "drop_curser.png",
+            "drop_head.png",
+            "drop_title.png",
+            "drop_list_normal.png",
+            "drop_list_over.png",
+            "ch_enter.png",
+            "ch.png"
+
+        ],
+        "sounds": []
+    },
+    "longtext": {
+        "images": [
+            "title_drop.png",
+            "categoryBg.png",
+            "categoryHead.png",
+            "listBg.png",
+            "listHead.png",
+            "listNormal.png",
+            "listSel.png",
+            "script.png",
+            "title.png",
+            "categoryNormal.png",
+            "categorySel.png",
+
+            "longTextHeadBtn.png",
+        
+            "drop_curser.png",
+            
+            "drop_list_normal.png",
+            "drop_list_over.png",
+
+            "bg_typeing.png",
+            "longText_default.png",
+            "longText_focus.png",
+            "ch.png"
+
+            
+        ],
+        "sounds": []
+    },
+    
+    "game":{
+        "images": [
+            "forest_stick.png",
+            "forest_sign.png",
+            "space_sign.png",
+            "ch_0.png",
+            "ch_1.png",
+            "ch_2.png",
+            "title.png",
+            "script.png"
+        ],
+        "jsons":[
+            "ef_boom.json",
+            "heart.json",
+            "game_common.json",
+            "numbers.json"
+        ],
+        "sounds": []
+    },
+    "exam":{
+        "images": [
+            "typing_bg.png",
+            "input_bg.png",
+            "question_bg.png",
+            "focus_q.png",
+            "focus_i.png",
+            "title.png",
+            "script.png",
+            "list_head.png",
+            "list_bg.png",
+            "render_blue.png",
+            "render_white.png",
+            "drop_curser.png",
+            "drop_head.png",
+            "drop_title.png",
+            "drop_list_normal.png",
+            "drop_list_over.png",
+            "ch.png"
+        ],
+        "sounds": []
+    },
+    "common":{
+        "images": [
+            "active_cur.png",
+            "bg_popup_level.png",
+            "drop_bg.png",
+            "btn_level_normal.png",
+            "btn_level_sel.png",
+            "main_bg.png",
+            "common_bg.png",
+            "bg_3.png",
+            "thumb.png",
+            "keyboard.png",
+            "bee.png",
+
+            "practice_btn.png",
+            "again_btn.png"
+        ],
+        "sounds": [
+            "bgm_1.mp3",
+            "bgm_2.mp3",
+            "bgm_3.mp3",
+            "sfx_2.mp3",
+            "sfx_3.mp3",
+            "sfx_4.mp3",
+            "sfx_5.mp3",
+            "sfx_6.mp3",
+            "sfx_7.mp3",
+
+            "ready.ogg",
+            "set.ogg",
+            "go.ogg"
+        ],
+        "spine":[
+            "common_eop.json"
+        ]
+    },
+    "rankpopup":{
+        "images":[
+            "bg.png",
+            "page0_bg.png",
+            "page1_bg.png",
+            "tab_normal.png",
+            "tab_sel.png",
+            "gold.png",
+            "silver.png",
+            "bronze.png"
+        ]
+    },
+
+    "guidepopup":{
+        "images":[
+            "guide_pop_bg.png",
+            "guide_pop_in_bg.png",
+            "guide_tab_normal.png",
+            "guide_tab_sel.png",
+    
+            "left_cur_btn.png",
+            "right_cur_btn.png",
+
+            "guide_0_ch.png",
+
+            "guide_0_script_1.png",
+            "guide_0_script_2.png",
+            "guide_0_script_3.png",
+
+            "guide_0_img_1.png",
+            "guide_0_img_2.png",
+            "guide_0_img_3.png",
+
+            "guide_1_ch.png",
+            "guide_1_script.png",
+            "guide_1_en.png",
+            "guide_1_kr.png",
+
+            "guide_2_ch.png",
+            "guide_2_script.png",
+            "guide_2_en.png",
+            "guide_2_kr.png",
+
+            "guide_3_ch.png",
+            "guide_3_script.png",
+            "guide_3_en.png",
+            "guide_3_kr.png",
+
+            "guide_4_ch.png",
+            "guide_4_script.png",
+            "guide_4_en.png",
+            "guide_4_kr.png",
+
+            "guide_5_ch.png",
+            "guide_5_script.png",
+            "guide_5_en.png",
+            "guide_5_kr.png",
+
+            "guide_6_ch.png",
+            "guide_6_script.png",
+            "guide_6_kr.png",
+
+            "space.png",
+            "space_title.png",
+            "space_t1.png",
+            "space_t2.png",
+            "space_t3.png",
+            "space_t4.png",
+
+            "forest.png",
+            "forest_title.png",
+            "forest_t1.png",
+            "forest_t2.png",
+            "forest_t3.png",
+            "forest_t4.png",
+
+            "page_btn_normal.png",
+            "page_btn_sel.png"
+        ]
+    },
+
+    "spacegame":{
+        "images":[
+            "bg.png",
+            "bg_land.png",
+            "input_bg.png",
+            "rain_bg.png",
+            "bonus.png",
+            "ch_0.png",
+            "ch_1.png",
+            "ch_2.png",
+            "ch_3.png"
+        ]
+    },
+
+    "forestgame":{
+        "images": [
+            "bg.png",
+            "bonus.png",
+            "boss_0.png",
+            "boss_1.png",
+            "boss_2.png",
+            "boss_3.png",
+            "boss_sb.png",
+            "boss_sb_left_tail.png",
+            "boss_sb_right_tail.png",
+            "input_bg.png",
+            "slime_0.png",
+            "slime_1.png",
+            "slime_2.png",
+            "slime_3.png",
+            "sb_left.png",
+            "sb_right.png"
+        ],
+        "spine":[
+            "game2_bear.json"
+        ],
+        "sounds": []
+    },
+
+    "gamecommon":{
+        "images": [
+            "ef_combo_01.png",
+            "ef_combo_02.png",
+            "ef_combo_03.png",
+            "ef_combo_04.png",
+            "ef_combo_05.png",
+            "ef_combo_06.png",
+            "ef_combo_07.png",
+            "ef_combo_08.png",
+            "ef_combo_09.png",
+            "ef_combo_10.png",
+            "ef_combo_11.png",
+            "ef_combo_12.png",
+            "ef_combo_13.png",
+            "ef_combo_14.png",
+            "ef_combo_15.png",
+            "ef_combo_16.png",
+            "ef_combo_17.png",
+            "ef_combo_18.png",
+            "ef_combo_19.png",
+            "ef_combo_20.png",
+            "ef_combo_21.png",
+            "ef_combo_22.png",
+            "ef_combo_23.png",
+            "ef_combo_24.png",
+            "ef_combo_25.png",
+            "ef_combo_26.png",
+            "ef_combo_27.png",
+            "ef_combo_28.png",
+            "ef_combo_29.png",
+            "ef_combo_30.png",
+            "ef_combo_31.png",
+            "ef_combo_32.png",
+            "ef_combo_33.png",
+            "ef_combo_34.png",
+            "ef_combo_35.png",
+            "ef_combo_36.png",
+            "ef_combo_37.png",
+            "ef_combo_38.png",
+            "ef_combo_39.png",
+            "ef_combo_40.png",
+            "ef_combo_41.png",
+            "ef_combo_42.png"
+        ]
+    }
+
+}

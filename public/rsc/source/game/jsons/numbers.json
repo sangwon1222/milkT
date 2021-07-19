@@ -1,0 +1,95 @@
+{"frames": {
+
+"no_combo_00.png":
+{
+	"frame": {"x":1,"y":163,"w":58,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":80},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_01.png":
+{
+	"frame": {"x":1,"y":733,"w":36,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":36,"h":78},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_02.png":
+{
+	"frame": {"x":1,"y":572,"w":56,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":56,"h":79},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_03.png":
+{
+	"frame": {"x":1,"y":245,"w":58,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":80},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_04.png":
+{
+	"frame": {"x":1,"y":83,"w":60,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":60,"h":78},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_05.png":
+{
+	"frame": {"x":1,"y":491,"w":57,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":57,"h":79},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_06.png":
+{
+	"frame": {"x":1,"y":327,"w":58,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":80},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_07.png":
+{
+	"frame": {"x":1,"y":653,"w":54,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":54,"h":78},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_08.png":
+{
+	"frame": {"x":1,"y":1,"w":60,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":80},
+	"sourceSize": {"w":60,"h":80}
+},
+"no_combo_09.png":
+{
+	"frame": {"x":1,"y":409,"w":58,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":58,"h":80},
+	"sourceSize": {"w":60,"h":80}
+}},
+"animations": {
+	"no_combo": ["no_combo_00.png","no_combo_01.png","no_combo_02.png","no_combo_03.png","no_combo_04.png","no_combo_05.png","no_combo_06.png","no_combo_07.png","no_combo_08.png","no_combo_09.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "numbers.png",
+	"format": "RGBA8888",
+	"size": {"w":62,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b833317e718428b5477a776b9e8da5bd:e5c9822658ef1d1ed32323a5fc7cd613:1070938cc284949ced1e46ffd0a9abd0$"
+}
+}

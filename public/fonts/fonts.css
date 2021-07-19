@@ -1,0 +1,29 @@
+
+@font-face {
+	font-family: 'TmoneyRoundWindExtraBold';
+	font-style: normal;
+	font-weight: normal;
+	src:url('TmoneyRoundWindExtraBold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'BMJUA';
+	font-style: normal;
+	font-weight: normal;
+	src:url('BMJUA_otf.otf') format('opentype');
+}
+
+
+@font-face {
+	font-family: 'NanumGothic';
+	font-style: normal;
+	src:url('NanumGothic.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'NanumGothicBold';
+	font-style: normal;
+	src:url('NanumGothicBold.otf') format('opentype');
+}
+
+

@@ -1,0 +1,92 @@
+{"frames": {
+
+"drop_curser.png":
+{
+	"frame": {"x":1889,"y":671,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+},
+"drop_head.png":
+{
+	"frame": {"x":1,"y":1322,"w":706,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":706,"h":116},
+	"sourceSize": {"w":706,"h":116}
+},
+"drop_list_normal.png":
+{
+	"frame": {"x":709,"y":1221,"w":706,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":706,"h":116},
+	"sourceSize": {"w":706,"h":116}
+},
+"drop_list_over.png":
+{
+	"frame": {"x":709,"y":1339,"w":706,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":706,"h":116},
+	"sourceSize": {"w":706,"h":116}
+},
+"drop_title.png":
+{
+	"frame": {"x":1417,"y":1221,"w":500,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":500,"h":116},
+	"sourceSize": {"w":500,"h":116}
+},
+"focus.png":
+{
+	"frame": {"x":1,"y":1018,"w":302,"h":288},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":5,"w":302,"h":288},
+	"sourceSize": {"w":304,"h":294}
+},
+"guide_text.png":
+{
+	"frame": {"x":291,"y":1018,"w":1650,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1650,"h":201},
+	"sourceSize": {"w":1650,"h":201}
+},
+"keyboard.png":
+{
+	"frame": {"x":1,"y":243,"w":1886,"h":773},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1886,"h":773},
+	"sourceSize": {"w":1886,"h":869}
+},
+"quizbox.png":
+{
+	"frame": {"x":1,"y":1,"w":2000,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2000,"h":240},
+	"sourceSize": {"w":2000,"h":240}
+},
+"title.png":
+{
+	"frame": {"x":1889,"y":243,"w":426,"h":97},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":426,"h":97},
+	"sourceSize": {"w":428,"h":100}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "keylocation.png",
+	"format": "RGBA8888",
+	"size": {"w":2002,"h":1456},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:61b490cfbb8eff7f9c5623d6bdc5538b:d745462153b4d30bae53e89027061c99:c613782c1acc2176de17cd05ce1788ac$"
+}
+}
